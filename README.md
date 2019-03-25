@@ -2,10 +2,7 @@
 # Researching HTML Elements
 
 ## Introduction
-When writing HTML you might encounter tags that are new to you.  How are
-we going to level-up?  When searching for technical help, we have to be careful
-about which sources we trust. This is a skill you will build over time, but
-we'll model some good practices in this README.
+When writing HTML you might encounter tags that are new to you. When searching for technical help, you have to be careful about which sources you trust. This is a skill you will build over time, but you'll get an overview of some good practices in this README.
 
 ## Objectives
 You will be able to:
@@ -16,7 +13,7 @@ You will be able to:
 ## Use Search Engines as a Resources to Find Information
 
 Let's say in your research, you come across an unfamiliar HTML element like
-`<samp>`. We can google `samp html element,` and we will find an endless list
+`<samp>`. You can google `samp html element,` and we will find an endless list
 of results to choose from. Sometimes resources can be outdated, biased, or
 inaccurate. It's important to filter through the results to find the best fit.
 
@@ -26,9 +23,9 @@ inaccurate. It's important to filter through the results to find the best fit.
 
 Your instinct might be to open the first result. You should be pickier.
 Sometimes the result has "gamed" the search engine and unfairly influenced the ranking.
-We recommend that you open the top **five** results and review them critically.
+It's recommended that you open the top **five** results and review them critically.
 
-We also recommend that you trust sites that are affiliated with building or
+It's also advisable to trust sites that are affiliated with building or
 defining the technologies more than blogs or other resources. In the HTML
 world, the Mozilla Developer Network (MDN) is an extremely trustworthy site.
 In fact, it's likely the best HTML, JS and CSS documentation source on the
@@ -38,7 +35,7 @@ internet.
 
 ## Compare Multiple Resources To Find The Best Source
 
-If we go back to the search results, you'll see that the first result in this
+If you go back to the search results, you'll see that the first result in this
 case is `W3schools`. A site, like W3schools, for example, can be used as an
 additional resource for garnering understanding. It even includes interactive
 examples, creating a sandbox environment for experimentation.
