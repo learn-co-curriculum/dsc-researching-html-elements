@@ -35,8 +35,8 @@ internet.
 
 ## Compare Multiple Resources To Find The Best Source
 
-If you go back to the search results, you'll see that the first result in this
-case is `W3schools`. A site, like W3schools, for example, can be used as an
+If you go back to the search results, you'll see that the first result, in this
+case, is `W3schools`. A site, like W3schools, for example, can be used as an
 additional resource for garnering understanding. It even includes interactive
 examples, creating a sandbox environment for experimentation.
 
@@ -55,4 +55,4 @@ practice technical searches. It's a _skill_ that you will get better at with pra
 
 Most importantly, don't feel like _not knowing everything by heart_ means you can't
 be a developer. The greatest developers we know are constantly admitting what they
-don't know, finding the latest news, using the answer they found, and moving on.
+don't know, finding the latest news, using the answer they found and moving on.
