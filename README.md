@@ -17,7 +17,8 @@ Let's say in your research, you come across an unfamiliar HTML element like
 of results to choose from. Sometimes resources can be outdated, biased, or
 inaccurate. It's important to filter through the results to find the best fit.
 
-![](https://curriculum-content.s3.amazonaws.com/web-development/html-element-search.png)
+<img src="https://curriculum-content.s3.amazonaws.com/web-development/html-element-search.png" width="850">
+
 
 ## Observe And Identify Resources Relevant Information
 
@@ -31,7 +32,7 @@ world, the Mozilla Developer Network (MDN) is an extremely trustworthy site.
 In fact, it's likely the best HTML, JS and CSS documentation source on the
 internet.
 
-![](https://curriculum-content.s3.amazonaws.com/web-development/samp-mdn-page.png)
+<img src="https://curriculum-content.s3.amazonaws.com/web-development/samp-mdn-page.png" width="850">
 
 ## Compare Multiple Resources To Find The Best Source
 
