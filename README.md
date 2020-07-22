@@ -5,8 +5,9 @@
 When writing HTML you might encounter tags that are new to you. When searching for technical help, you have to be careful about which sources you trust. This is a skill you will build over time but you'll get an overview of some good practices here.
 
 ## Objectives
-You will be able to:
-* Use search engines as resources to find information
+You will be able to:  
+
+* Use search engines as resources to find information  
 * Compare multiple resources to find the best source
 
 ## Use Search Engines as Resources to Find Information
